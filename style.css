@@ -1,0 +1,26 @@
+.container{
+    max-width: 960;
+    margin: 0 auto;
+    background: #f9f9f9;
+    font-size: 24px;
+    padding: 25px;
+}
+.paralax{
+    background: url('1.jpg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 300px;
+}
+/*  */
+/*  */
+.parallax-window {
+    /* min-height: 400px; */
+    background: transparent;
+}
+.info{
+    z-index: 2;
+    position: relative;
+    padding: 50px;
+    color: #fff;
+}
+
